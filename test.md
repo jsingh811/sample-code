@@ -96,8 +96,7 @@ category tweets.
 
 This is explained in the flowchart below
 
-![](media/image1.png){width="6.361111111111111in"
-height="4.805555555555555in"}
+<img width="458" alt="screen shot 2016-06-24 at 4 59 59 pm" src="https://cloud.githubusercontent.com/assets/16875926/16366632/1e3b08c4-3be8-11e6-82c8-91b42b624022.png">
 
 *Feature:* Categories of content that consumers like as obtained from
 their other subscriptions
